@@ -1,0 +1,223 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\University\\7thsemister\\dotnet\\Cs\\Supermarketinventory\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D4D64AF5-8056-4833-A400-52CC750A74FC}|Supermarketinventory.csproj|d:\\university\\7thsemister\\dotnet\\cs\\supermarketinventory\\selling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4D64AF5-8056-4833-A400-52CC750A74FC}|Supermarketinventory.csproj|solutionrelative:selling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4D64AF5-8056-4833-A400-52CC750A74FC}|Supermarketinventory.csproj|D:\\University\\7thsemister\\dotnet\\Cs\\Supermarketinventory\\selling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D4D64AF5-8056-4833-A400-52CC750A74FC}|Supermarketinventory.csproj|solutionrelative:selling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4D64AF5-8056-4833-A400-52CC750A74FC}|Supermarketinventory.csproj|D:\\University\\7thsemister\\dotnet\\Cs\\Supermarketinventory\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D4D64AF5-8056-4833-A400-52CC750A74FC}|Supermarketinventory.csproj|solutionrelative:product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4D64AF5-8056-4833-A400-52CC750A74FC}|Supermarketinventory.csproj|D:\\University\\7thsemister\\dotnet\\Cs\\Supermarketinventory\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D4D64AF5-8056-4833-A400-52CC750A74FC}|Supermarketinventory.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4D64AF5-8056-4833-A400-52CC750A74FC}|Supermarketinventory.csproj|D:\\University\\7thsemister\\dotnet\\Cs\\Supermarketinventory\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D4D64AF5-8056-4833-A400-52CC750A74FC}|Supermarketinventory.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4D64AF5-8056-4833-A400-52CC750A74FC}|Supermarketinventory.csproj|D:\\University\\7thsemister\\dotnet\\Cs\\Supermarketinventory\\seller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D4D64AF5-8056-4833-A400-52CC750A74FC}|Supermarketinventory.csproj|solutionrelative:seller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4D64AF5-8056-4833-A400-52CC750A74FC}|Supermarketinventory.csproj|D:\\University\\7thsemister\\dotnet\\Cs\\Supermarketinventory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4D64AF5-8056-4833-A400-52CC750A74FC}|Supermarketinventory.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4D64AF5-8056-4833-A400-52CC750A74FC}|Supermarketinventory.csproj|D:\\University\\7thsemister\\dotnet\\Cs\\Supermarketinventory\\seller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4D64AF5-8056-4833-A400-52CC750A74FC}|Supermarketinventory.csproj|solutionrelative:seller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4D64AF5-8056-4833-A400-52CC750A74FC}|Supermarketinventory.csproj|D:\\University\\7thsemister\\dotnet\\Cs\\Supermarketinventory\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4D64AF5-8056-4833-A400-52CC750A74FC}|Supermarketinventory.csproj|solutionrelative:product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4D64AF5-8056-4833-A400-52CC750A74FC}|Supermarketinventory.csproj|D:\\University\\7thsemister\\dotnet\\Cs\\Supermarketinventory\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4D64AF5-8056-4833-A400-52CC750A74FC}|Supermarketinventory.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4D64AF5-8056-4833-A400-52CC750A74FC}|Supermarketinventory.csproj|D:\\University\\7thsemister\\dotnet\\Cs\\Supermarketinventory\\catagory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D4D64AF5-8056-4833-A400-52CC750A74FC}|Supermarketinventory.csproj|solutionrelative:catagory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4D64AF5-8056-4833-A400-52CC750A74FC}|Supermarketinventory.csproj|D:\\University\\7thsemister\\dotnet\\Cs\\Supermarketinventory\\catagory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4D64AF5-8056-4833-A400-52CC750A74FC}|Supermarketinventory.csproj|solutionrelative:catagory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4D64AF5-8056-4833-A400-52CC750A74FC}|Supermarketinventory.csproj|D:\\University\\7thsemister\\dotnet\\Cs\\Supermarketinventory\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4D64AF5-8056-4833-A400-52CC750A74FC}|Supermarketinventory.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "D:\\University\\7thsemister\\dotnet\\Cs\\Supermarketinventory\\Form2.cs",
+              "RelativeDocumentMoniker": "Form2.cs",
+              "ToolTip": "D:\\University\\7thsemister\\dotnet\\Cs\\Supermarketinventory\\Form2.cs",
+              "RelativeToolTip": "Form2.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAkwBgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T03:36:46.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Catagory.cs",
+              "DocumentMoniker": "D:\\University\\7thsemister\\dotnet\\Cs\\Supermarketinventory\\Catagory.cs",
+              "RelativeDocumentMoniker": "Catagory.cs",
+              "ToolTip": "D:\\University\\7thsemister\\dotnet\\Cs\\Supermarketinventory\\Catagory.cs",
+              "RelativeToolTip": "Catagory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAALQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T02:40:16.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Catagory.cs [Design]",
+              "DocumentMoniker": "D:\\University\\7thsemister\\dotnet\\Cs\\Supermarketinventory\\Catagory.cs",
+              "RelativeDocumentMoniker": "Catagory.cs",
+              "ToolTip": "D:\\University\\7thsemister\\dotnet\\Cs\\Supermarketinventory\\Catagory.cs [Design]",
+              "RelativeToolTip": "Catagory.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T02:40:11.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\University\\7thsemister\\dotnet\\Cs\\Supermarketinventory\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\University\\7thsemister\\dotnet\\Cs\\Supermarketinventory\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABUAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T11:22:25.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Selling.cs",
+              "DocumentMoniker": "D:\\University\\7thsemister\\dotnet\\Cs\\Supermarketinventory\\Selling.cs",
+              "RelativeDocumentMoniker": "Selling.cs",
+              "ToolTip": "D:\\University\\7thsemister\\dotnet\\Cs\\Supermarketinventory\\Selling.cs",
+              "RelativeToolTip": "Selling.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T13:00:43.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Selling.cs [Design]",
+              "DocumentMoniker": "D:\\University\\7thsemister\\dotnet\\Cs\\Supermarketinventory\\Selling.cs",
+              "RelativeDocumentMoniker": "Selling.cs",
+              "ToolTip": "D:\\University\\7thsemister\\dotnet\\Cs\\Supermarketinventory\\Selling.cs [Design]",
+              "RelativeToolTip": "Selling.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T10:58:26.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\University\\7thsemister\\dotnet\\Cs\\Supermarketinventory\\Product.cs",
+              "RelativeDocumentMoniker": "Product.cs",
+              "ToolTip": "D:\\University\\7thsemister\\dotnet\\Cs\\Supermarketinventory\\Product.cs",
+              "RelativeToolTip": "Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T07:46:46.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Seller.cs",
+              "DocumentMoniker": "D:\\University\\7thsemister\\dotnet\\Cs\\Supermarketinventory\\Seller.cs",
+              "RelativeDocumentMoniker": "Seller.cs",
+              "ToolTip": "D:\\University\\7thsemister\\dotnet\\Cs\\Supermarketinventory\\Seller.cs",
+              "RelativeToolTip": "Seller.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAcwC0AAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T08:48:06.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\University\\7thsemister\\dotnet\\Cs\\Supermarketinventory\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\University\\7thsemister\\dotnet\\Cs\\Supermarketinventory\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T08:32:43.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Seller.cs [Design]",
+              "DocumentMoniker": "D:\\University\\7thsemister\\dotnet\\Cs\\Supermarketinventory\\Seller.cs",
+              "RelativeDocumentMoniker": "Seller.cs",
+              "ToolTip": "D:\\University\\7thsemister\\dotnet\\Cs\\Supermarketinventory\\Seller.cs [Design]",
+              "RelativeToolTip": "Seller.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T07:48:55.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\University\\7thsemister\\dotnet\\Cs\\Supermarketinventory\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\University\\7thsemister\\dotnet\\Cs\\Supermarketinventory\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T07:48:45.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "D:\\University\\7thsemister\\dotnet\\Cs\\Supermarketinventory\\Form2.cs",
+              "RelativeDocumentMoniker": "Form2.cs",
+              "ToolTip": "D:\\University\\7thsemister\\dotnet\\Cs\\Supermarketinventory\\Form2.cs [Design]",
+              "RelativeToolTip": "Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T07:48:36.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs [Design]",
+              "DocumentMoniker": "D:\\University\\7thsemister\\dotnet\\Cs\\Supermarketinventory\\Product.cs",
+              "RelativeDocumentMoniker": "Product.cs",
+              "ToolTip": "D:\\University\\7thsemister\\dotnet\\Cs\\Supermarketinventory\\Product.cs [Design]",
+              "RelativeToolTip": "Product.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T07:48:27.138Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
